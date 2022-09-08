@@ -1,6 +1,6 @@
 //set new Audio file
 const song = new Audio(
-  'https://file-examples.com/storage/fe88505b6162b2538a045ce/2017/11/file_example_MP3_5MG.mp3'
+  'https://file-examples.com/storage/fe7d3a0d44631509da1f416/2017/11/file_example_MP3_1MG.mp3'
 );
 
 //Play the song
